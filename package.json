@@ -1,0 +1,19 @@
+{
+    "name": "skycrane-detector",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+    },
+    "devDependencies": {
+      "vows": "0.6.4",
+      "wd": "0.0.25",
+      "optimist": "0.3.5",
+      "q": "0.8.9",
+      "underscore": "1.4.2"
+    },
+    "scripts": {
+    },
+    "engines": {
+        "node": ">= 0.8.11"
+    }
+}
